@@ -6,7 +6,7 @@
 
 ## Links
 
-[![Application](https://img.shields.io/badge/Streamlit%20Application-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](http://34.135.129.25:80/) [![Documentation](https://img.shields.io/badge/Documentation-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://github.com/PranithaPoosa/Legal_Insights_Engine/blob/main/assets/Legal%20Insights%20Engine_documentation.pdf)  [![Application Demo](https://img.shields.io/badge/Application_Demo-orange?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/embed/ywKlXsZLMv4) 
+[![Application](https://img.shields.io/badge/Streamlit%20Application-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](http://34.135.129.25:80/) [![Documentation](https://img.shields.io/badge/Documentation-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://docs.google.com/document/d/1dUZPL3dHawDyI4VkRoeUI5v4xoWeG4sHWWCbgpSbg1E/edit?usp=sharing)  [![Application Demo](https://img.shields.io/badge/Application_Demo-orange?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/iT46SZXCn3k) 
 
 ## Overview
 The Case Connect project is designed to streamline legal research and decision-making by leveraging advanced technologies for data processing, semantic search, and data analysis. This platform integrates multiple components to allow users to interact with comprehensive legal case data, perform in-depth analysis, and derive insights that inform decision-making.
